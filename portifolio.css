@@ -126,6 +126,10 @@
     }
   /*end of project box*/
 
+  .boxlink{
+    text-decoration: none;
+    color: inherit;
+  }
   .project1{
     position: absolute;
     top: 100px;
