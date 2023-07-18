@@ -108,7 +108,6 @@
     position: absolute;
     left: 400px;
     top: 10px;
-    position: absolute;
     height: 65px;
     padding-left: 20px;
     width: 730px;
@@ -130,7 +129,7 @@
   .project1{
     position: absolute;
     top: 100px;
-    width: 300px;
+    width: 345px;
     padding: 10px;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
     border-radius: 15px;
@@ -141,12 +140,11 @@
     position: absolute;
     top: 100px;
     padding: 10px;
-    width: 300px;
+    width: 345px;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
     border-radius: 15px;
     box-shadow: 5px;
-
-    left: 750px;
+    left: 785px;
     background-color: #302F3D;
   }
   .posts{
