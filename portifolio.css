@@ -39,6 +39,10 @@
   /* End of Box Perfil*/
 
   /*Start of Box Contact*/
+  .linkcolor{
+    text-decoration: none;
+    color: #3f6cb2;
+  }
   .contact{
     font-weight: 400;
     position: relative;
